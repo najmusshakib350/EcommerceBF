@@ -1,0 +1,37 @@
+/* Menu code start */
+.menu-ul {
+  margin-left: auto;
+}
+/* Menu code end */
+/* Footer css code start */
+footer {
+  width: 100%;
+  float: left;
+  background: #2496fc;
+  padding: 20px 0px;
+}
+.footer p {
+  font-family: "Poppins Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+  color: #fff;
+}
+.footer .font-awesome {
+  justify-content: center;
+}
+
+.footer .font-awesome ul li {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  line-height: 35px;
+  float: left;
+}
+.footer .font-awesome .nav-item .nav-link {
+  text-decoration: none;
+}
+.footer .font-awesome .nav-item .nav-link .fa {
+  color: #fff;
+}
+/* Footer css code end */
